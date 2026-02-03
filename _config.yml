@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_1.png"
+  avatar           : "profile_2.png"
   name             : "Tatthapong (Joe)"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD student in Industrial Engineering working on Physics-Informed Neural Networks (PINNs) and data-driven modeling of physical systems. My research integrates machine learning and engineering principles to model physical systems and optimize decision-making under uncertainty."
