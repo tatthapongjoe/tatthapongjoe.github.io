@@ -1,0 +1,16 @@
+---
+title: "Robust Physics-Informed Neural Network Approach for Estimating Heterogeneous Elastic Properties from Noisy Displacement Data"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-robust-pinn
+date: 2025-11-01
+venue: 'Advanced Science'
+paperurl: 'https://doi.org/10.1002/advs.202508445'
+citation: 'Advanced Science (2025).'
+---
+
+This paper develops a robust physics-informed neural network
+framework for estimating spatially heterogeneous elastic
+properties from noisy displacement measurements.
+
+[View Paper](https://doi.org/10.1002/advs.202508445)
